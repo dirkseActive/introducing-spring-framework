@@ -10,7 +10,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 @ComponentScan
 /**
  * 
- * bvs  12/13/2016  Created from the first chapter of Introducting spring framework 
+ * 12/13/2016  Created from the first chapter of Introducing spring framework
+ * 12/21/2016  Updated this messaging
  * 
  */
 
